@@ -1,0 +1,11 @@
+Package: RTutorExportCrops
+Type: Package
+Title: RTutor problem set ExportCrops
+Version: 0.1
+Date: 2024-09-05
+Author: Adrian Sihler
+Maintainer: Adrian Sihler <adrian.sihler@uni-ulm.de>
+Description: RTutor problem set ExportCrops
+License: Problem set content: Creative Commons (CC BY-SA)
+	 Package code: GPL >= 2.0
+Depends: RTutor, haven, dplyr, modelsummary, kableExtra, fixest, ggplot2, ggpubr, conleyreg, tidyr, foreign
